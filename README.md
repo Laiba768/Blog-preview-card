@@ -9,7 +9,7 @@ A blog preview card component from Frontend Mentor featuring a modern card desig
 ![Desktop View](screenshots/desktop.PNG)
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
+![Mobile View](screenshots/mobile.PNG)
 
 ## Links
 - Live Site URL: [Add your live site URL here]
