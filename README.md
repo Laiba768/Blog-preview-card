@@ -12,8 +12,8 @@ A blog preview card component from Frontend Mentor featuring a modern card desig
 ![Mobile View](screenshots/mobile.PNG)
 
 ## Links
-- Live Site URL: [Add your live site URL here]
-- Solution URL: [Add your GitHub repo URL]
+- Live Site URL: [https://app.netlify.com/projects/blogpreviewcard8675/overview]
+- Solution URL: [https://github.com/Laiba768/Blog-preview-card]
 
 ## Built with
 - HTML5
